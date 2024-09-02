@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "macroglider")(type "KiCad")(uri "${KIPRJMOD}/schematics/macroglider.kicad_sym")(options "")(descr ""))
+)

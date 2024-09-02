@@ -1,0 +1,79 @@
+(footprint "Pad-CapacitiveTouch"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
+	(property "Reference" "REF**"
+		(at 0 6.3 0)
+		(layer "F.Fab")
+		(uuid "3d3fa864-5d75-47c9-9b65-abc63bd2f2ae")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
+	(property "Value" "Capacitive Button"
+		(at 0 7.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "217da81d-eacb-4944-a14b-e8f8c4a69c16")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify top)
+		)
+	)
+	(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6717efb5-858d-4592-8706-8a35631cb39c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed9b0c92-d4ef-4275-be52-fbd0bc1d8b0c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Single Pole Single Throw (SPST) switch"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b1582c8-b730-4c75-9fec-aa96d352873e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 0)
+		(size 10 10)
+		(layers "F.Cu")
+		(roundrect_rratio 0.25)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "a8c75c7d-c975-45bb-8dd3-1c2b0730da04")
+	)
+)

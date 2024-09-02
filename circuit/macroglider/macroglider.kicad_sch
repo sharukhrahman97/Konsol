@@ -2825,7 +2825,7 @@
 		)
 		(uuid "12ba29ed-0403-4376-8ead-9c6f21a3e827")
 	)
-	(label "FADER3B"
+	(label "FADER2A"
 		(at 22.86 41.91 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2902,7 +2902,7 @@
 		)
 		(uuid "25abc71b-e310-400a-8444-fcdc312c42dd")
 	)
-	(label "FADER1B"
+	(label "FADER3A"
 		(at 22.86 34.29 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2913,7 +2913,7 @@
 		)
 		(uuid "2a69adcf-9a27-4039-a54a-eada31c27962")
 	)
-	(label "ROT1A"
+	(label "ROT1C"
 		(at 22.86 57.15 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2924,7 +2924,7 @@
 		)
 		(uuid "2d9071dc-5777-496c-a22d-2a3298d5dd62")
 	)
-	(label "FADER2B"
+	(label "FADER3B"
 		(at 22.86 36.83 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3034,7 +3034,7 @@
 		)
 		(uuid "45c96fb7-37bc-4903-8993-bb3fe507f4c3")
 	)
-	(label "ROT1C"
+	(label "ROT2A"
 		(at 22.86 62.23 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3045,7 +3045,7 @@
 		)
 		(uuid "4d5fc671-fe2f-4d3f-b672-94ae5f1a07ad")
 	)
-	(label "TPAD8"
+	(label "ROT1B"
 		(at 22.86 54.61 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3100,7 +3100,7 @@
 		)
 		(uuid "6eabb8ce-6caf-42ba-ba69-05b495d5ff2d")
 	)
-	(label "ROT1B"
+	(label "ROT1A"
 		(at 22.86 59.69 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3122,7 +3122,7 @@
 		)
 		(uuid "8022cc4e-6816-4ef4-b5e0-20394a07c4c8")
 	)
-	(label "ROT2A"
+	(label "ROT2C"
 		(at 22.86 67.31 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3188,7 +3188,7 @@
 		)
 		(uuid "a8b9398c-2c3d-44a3-981c-06b899948f15")
 	)
-	(label "FADER1C"
+	(label "FADER3C"
 		(at 76.2 49.53 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3199,7 +3199,7 @@
 		)
 		(uuid "ac2e1b34-30e3-46fb-ba97-ea19d56987b1")
 	)
-	(label "FADER2A"
+	(label "FADER1B"
 		(at 22.86 49.53 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3221,7 +3221,7 @@
 		)
 		(uuid "bec55368-c1d5-4efa-9d74-5a884fc4208b")
 	)
-	(label "ROT2C"
+	(label "TPAD8"
 		(at 22.86 72.39 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3232,7 +3232,7 @@
 		)
 		(uuid "c5b65db1-5198-49ea-8b3f-5b281b1be6f7")
 	)
-	(label "FADER3C"
+	(label "FADER1C"
 		(at 76.2 57.15 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3276,7 +3276,7 @@
 		)
 		(uuid "e5fe6943-29be-4807-951f-ce8e2fe226dc")
 	)
-	(label "FADER3A"
+	(label "FADER2B"
 		(at 22.86 44.45 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7935,7 +7935,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:OLED-TH_L35.4-W33.5_HS13L03W2C01"
+		(property "Footprint" "easyeda2kicad:OLED-TH_L35.4-W33.5_HS13L03W2C01_without_mount_outline"
 			(at 93.98 120.65 0)
 			(effects
 				(font
